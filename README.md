@@ -18,6 +18,8 @@ Hi there, I'm Mariam Hasan 👋
 💻 Web Designer | 📈 SEO & Social Media Marketer | 🎬 Video Editor | 🐍 Python Learner
 
 Welcome to my GitHub profile! I'm passionate about creating amazing websites, improving online visibility through SEO, and crafting engaging videos. I'm also diving into Python to add coding skills to my toolkit.
+
+
 🔭 Current Projects:
 
 🌐 Website Design: Building a collectible website, collectorsabode.com, and designed all of the pages by myself
