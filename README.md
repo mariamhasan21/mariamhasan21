@@ -36,7 +36,8 @@ Welcome to my GitHub profile! I'm passionate about creating amazing websites, im
 1. Web Design: WordPress, HTML, CSS
 2. SEO & Marketing: On-page and off-page SEO, content marketing, social media management
 3. Video Editing and Design: CapCut and Canva
-4. Languages: Python (beginner)
+4. Programming Languages: Python (beginner)
+5. Languages: Bengali (native), English (advanced), Hindi (advanced), French (beginner)
 
 📫 How to reach me:
 
