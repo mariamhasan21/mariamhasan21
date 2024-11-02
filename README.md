@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm passionate about creating amazing websites, im
 
 🔭 Current Projects:
 
-🌐 Website Design: Building a collectible website, collectorsabode.com, and designed all of the pages by myself
+🌐 Website Design: Building a collectible website, [Collectors Abode](collectorsabode.com), and designed all of the pages by myself
 📚 Python Learning: I am continuously expanding my programming skills by developing short projects with Python.
 
 🌱 Currently Learning:
